@@ -114,25 +114,6 @@ These plots demonstrate improved generalization and reduced overfitting in the h
 
 ---
 
-## 📁 Repository Structure
-
-```bash
-├── data/
-│   ├── raw_data.csv
-│   ├── cleaned_data.csv
-│   └── train_test_val.pkl
-├── models/
-│   ├── mlp_lstm_model.h5
-│   └── model_architecture.png
-├── notebooks/
-│   └── preprocessing_and_model.ipynb
-├── utils/
-│   └── smote_helper.py
-├── README.md
-└── requirements.txt
-```
-
----
 
 ## 🚀 How to Run
 
