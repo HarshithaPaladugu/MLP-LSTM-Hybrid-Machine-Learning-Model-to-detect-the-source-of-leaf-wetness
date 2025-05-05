@@ -1,7 +1,4 @@
 # MLP-LSTM-Machine-Learning-Model-to-detect-the-source-of-leaf-wetness
-Here's a well-structured and detailed **README.md** content for your GitHub repository based on the methodology you provided. It explains the purpose, data, model, techniques used, and visualization clearly for readers or collaborators:
-
----
 
 # 🌿 Leaf Wetness Source Detection Using Hybrid MLP-LSTM Model
 
