@@ -1,4 +1,4 @@
-# MLP-LSTM-Machine-Learning-Model-to-detect-the-source-of-leaf-wetness
+# MLP-LSTM-Hybrid-Machine-Learning-Model-to-detect-the-source-of-leaf-wetness
 
 # 🌿 Leaf Wetness Source Detection Using Hybrid MLP-LSTM Model
 
